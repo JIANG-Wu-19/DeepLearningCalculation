@@ -45,6 +45,8 @@ DL uses GPU to calculate
 
 ## CNN
 
+笔记地址 | Note Address：[卷积神经网络 | J&Ocean BLOG (jiangwu.xyz)](https://jiangwu.xyz/2024/02/27/卷积神经网络/)
+
 学习了卷积神经网络的定义和细节
 
 learn the detail of CNN
