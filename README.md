@@ -1,4 +1,8 @@
+# studyDeepLearning
+
 ## 深度学习计算DLC
+
+笔记地址 | Note Address：[深度学习计算 | J&Ocean BLOG (jiangwu.xyz)](https://jiangwu.xyz/2024/02/20/深度学习计算/)
 
 MLP作为切入点学习深度学习计算
 
@@ -38,4 +42,14 @@ save and load the parameters of the model
 深度学习需要GPU
 
 DL uses GPU to calculate
+
+## CNN
+
+学习了卷积神经网络的定义和细节
+
+learn the detail of CNN
+
+学习了卷积层，池化层和经典CNN-LeNet
+
+including convolution layer, pooling layer and the ordinary CNN --- LeNet
 
