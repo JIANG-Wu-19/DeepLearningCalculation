@@ -55,3 +55,12 @@ learn the detail of CNN
 
 including convolution layer, pooling layer and the ordinary CNN --- LeNet
 
+## mCNN
+
+现代卷积神经网络 modern CNN
+
+### AlexNet
+
+实现了单GPU的AlexNet，在Fashion-MNIST/MNIST上测试
+
+implement the AlexNet on single GPU, testing on Fashio-MNIST/MNIST
