@@ -57,6 +57,8 @@ including convolution layer, pooling layer and the ordinary CNN --- LeNet
 
 ## mCNN
 
+笔记地址 | Note Address：[现代卷积神经网络 | J&Ocean BLOG (jiangwu.xyz)](https://jiangwu.xyz/2024/03/01/现代卷积神经网络/)
+
 现代卷积神经网络 modern CNN
 
 ### AlexNet
@@ -64,3 +66,18 @@ including convolution layer, pooling layer and the ordinary CNN --- LeNet
 实现了单GPU的AlexNet，在Fashion-MNIST/MNIST上测试
 
 implement the AlexNet on single GPU, testing on Fashio-MNIST/MNIST
+
+### VGG
+
+### NiN
+
+### GoogLeNet
+
+### Batch Normalization
+
+### ResNet
+
+### DenseNet
+
+
+
